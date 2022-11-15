@@ -1,0 +1,34 @@
+name: GPL-Compatible License Policy
+allow-licenses:
+- GPL-2.0
+- GPL-2.0-only
+- GPL-2.0-or-later
+- GPL-3.0
+- GPL-3.0-only
+- GPL-3.0-or-later
+- LGPL-3.0
+- LGPL-3.0-only
+- LGPL-2.1
+- LGPL-2.1-only
+- AGPL-3.0
+- AGPL-3.0-only
+- Apache-2.0
+- Artistic-2.0
+- Sleepycat
+- BSL-1.0
+- BSD-3-Clause
+- ECL-2.0
+- EFL-2.0
+- EUDatagrid
+- MIT
+- BSD-2-Clause
+- HPND
+- Intel
+- ISC
+- MPL-2.0
+- NCSA
+- UPL-1.0
+- Unlicense
+- W3C
+- Zlib
+- ZPL-2.0
