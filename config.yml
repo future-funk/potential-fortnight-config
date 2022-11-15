@@ -20,6 +20,7 @@ allow-licenses:
 - ECL-2.0
 - EFL-2.0
 - EUDatagrid
+- MIT
 - BSD-2-Clause
 - HPND
 - Intel
